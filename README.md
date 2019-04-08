@@ -1,6 +1,6 @@
 # 5 Minutes To Save The City
 
-This project was a collaborative submission in the 2019 DreamHack Dallas Gamejam hosted on Gamejolt.com, based on the theme '5 minutes to...'
+This project was a collaborative submission in the [2019 DreamHack Dallas Gamejam](http://jams.gamejolt.io/dhdallas) hosted on Gamejolt.com, based on the theme '5 minutes to...'
 
 In this game you ride a super-charged cart that can control time and travel at incredible speeds.
 
